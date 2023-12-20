@@ -1,4 +1,5 @@
 # License Plate Detection
+A License Plate Detection model that identifies license plates and scans them for image to text conversion for security use cases. Uses Python, Tensorflow, Jupyter Notebook, EasyOCR.
 
 ## Steps to use
 
