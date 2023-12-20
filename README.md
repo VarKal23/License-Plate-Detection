@@ -12,8 +12,8 @@ python -m venv lpdsys
 .\lpdsys\Scripts\activate
 
 ### Step 4. Install dependencies and add virtual environment to the Python Kernel
-python -m pip install --upgrade pip
-pip install ipykernel
+python -m pip install --upgrade pip <br>
+pip install ipykernel <br>
 python -m ipykernel install --user --name=lpdsys
 
 ### Step 5. Collect images and annotations through the following Kaggle Dataset
