@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
 ### Step 6. Manually divide collected images into two folders train and test
 \License-Plate-Detection\Tensorflow\workspace\images\train <br>
-\License-Plate-Detection\Tensorflow\workspace\images\test
+\License-Plate-Detection\Tensorflow\workspace\images\test <br>
 
 ### Step 7. Begin training process by opening 2. LicensePlateDetection.ipynb, this notebook will walk you through installing Tensorflow Object Detection, and making detections
 
